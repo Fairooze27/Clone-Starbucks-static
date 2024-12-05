@@ -356,7 +356,7 @@ font-weight: bolder;
 
 .content-lower{
   border: solid 1px;
-  background-image: url(/Starbacks/Images/backgroundimage.jpg);
+  background-image: url(Images/backgroundimage.jpg);
   background-size: cover;
   background-position: center;
   height: 400px;
